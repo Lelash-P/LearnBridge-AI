@@ -1,0 +1,6 @@
+{
+  "name": "LearnBridge AI",
+  "description": "AI-powered personalized learning companion and adaptive educational bridge supporting bilingual tutoring, quizzes, and learning gap detection.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
